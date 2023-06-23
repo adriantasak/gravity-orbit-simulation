@@ -2,7 +2,7 @@
 
 This simulation models the gravitational dynamics of an asteroid within the Earth-Moon system. The user is able to set the initial conditions for the asteroid, and the simulation calculates and visualizes the resulting trajectory. In cases where the asteroid's path leads to a collision with any of the celestial bodies, the simulation generates a visual representation of the resulting debris. Each set of initial parameters can lead to vastly different outcomes, highlighting the fascinating unpredictability inherent in orbital mechanics.
 
-<img src="./demo.gif" width="480" height="480" />
+<img src="./demo.gif" width="65%" />
 
 ## Usage
 
